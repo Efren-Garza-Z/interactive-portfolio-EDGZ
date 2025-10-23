@@ -1,4 +1,4 @@
-# Portfolio 3D
+# 🚀 Portfolio
 
 A modern 3D portfolio built with React and Three.js using React Three Fiber. Interactive scenes, smooth animations, responsive UI and a contact form powered by EmailJS — optimized with Vite and styled with Tailwind CSS.
 
