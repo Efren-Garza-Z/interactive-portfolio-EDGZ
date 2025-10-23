@@ -7,10 +7,11 @@ const HomeInfo = () => {
             <div className='info-box'>
 
                 <h1 className='sm:text-xl sm:leading-snug text-center text-white '>
-                    <span className='font-semibold mx-2 text-white'> K-CB Academy</span>
-                    👑
+                    Hi, I'm
+                    <span className='font-semibold mx-2 text-white'>Efren</span>
+                    👋😁🤓
                     <br />
-                    The best site to learn English<br />
+                    A Software Engineer from Mexico
                 </h1>
                 <Link to='/about' className='neo-brutalism-white neo-btn'>
                     Lern more

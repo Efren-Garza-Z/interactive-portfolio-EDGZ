@@ -1,6 +1,5 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import  UserMenu  from './UserMenu.jsx'
 
 import logo from "../assets/images/logo.png";
 
@@ -22,7 +21,6 @@ const Navbar = () => {
             'text-blue-500' : 'text-black'}>
                 Projects
             </NavLink>
-            <UserMenu />
         </nav>
     </header>
 )

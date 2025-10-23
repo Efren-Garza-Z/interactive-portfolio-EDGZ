@@ -29,6 +29,7 @@ const Contact = () => {
     setLoading(true);
     setCurrentAnimation("hit");
 
+    //this is with this email 22032522@es.uveg.edu.mx
     emailjs
       .send(
         'service_eea46k8',
@@ -143,7 +144,7 @@ const Contact = () => {
 
       <div className='lg:w-1/2 w-full lg:h-auto md:h-[550px] h-[350px]'>
       <Canvas camera={{ zoom: 4, position: [25,4, -45] }} >
-          <ambientLight intensity={2} />
+          <ambientLight intensity={3.5} />
           <Suspense fallback={null}>
             <Patricio />
 

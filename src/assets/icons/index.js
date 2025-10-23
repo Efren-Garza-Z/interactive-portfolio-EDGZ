@@ -32,8 +32,12 @@ import java from './java.svg'
 import golang from './golang.svg'
 import postgresql from './postgresql.svg'
 import angular from './angular.svg'
+import school from './school.svg'
+import games from './games.svg'
 
 export {
+    games,
+    school,
     angular,
     postgresql,
     golang,

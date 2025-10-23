@@ -22,7 +22,7 @@ import {
     tailwindcss,
     threads,
     python,
-    springboot, java, golang, typescript, angular,
+    springboot, java, golang, typescript, angular, school, games,
 } from "../assets/icons";
 
 export const skills = [{
@@ -173,21 +173,21 @@ export const projects = [{
         theme: 'btn-back-red',
         name: 'Asesor-Contable-y-Fiscal',
         description: 'Soy un Asesor Contable y Fiscal dedicado a brindar soluciones financieras personalizadas. Mi objetivo es ayudarte a gestionar tus impuestos y contabilidad de manera eficiente, asegurando que cumplas con todas tus obligaciones fiscales mientras optimizas tus recursos. Con experiencia en la elaboración de contabilidad general, análisis de estados financieros y manejo de nóminas, me esfuerzo por ofrecer un servicio confiable y adaptado a tus necesidades.',
-        link: 'https://github.com/EDavidGZ/Asesor-Contable-y-Fiscal',
+        link: 'https://asesor-contable-y-fiscal.vercel.app/',
     },
     {
-        iconUrl: threads,
+        iconUrl: games,
         theme: 'btn-back-green',
         name: 'Game Blocks',
         description: 'Game Blocks is a fun and educational platform where kids learn basic programming and logic by building their own games. Through interactive challenges, they develop problem-solving skills and explore coding in an engaging, hands-on way.',
-        link: 'https://github.com/EDavidGZ/gameblock',
+        link: 'https://gameblock.vercel.app/',
     },
     {
-        iconUrl: car,
+        iconUrl: school,
         theme: 'btn-back-blue',
         name: 'Kingdom',
-        description: 'We’re here to help you master English with engaging, interactive classes.',
-        link: 'https://github.com/EDavidGZ/kingdome-cb',
+        description: 'Learning English has never been so easy and attractive. Join our fully interactive classes and experience a teaching method focused on conversation and practice. We are here to guide you through every step of the way, ensuring you acquire English proficiency in an effective and fun way.',
+        link: 'https://kingdome-cb.vercel.app/',
     },
 
 ];
