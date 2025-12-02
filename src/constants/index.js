@@ -22,7 +22,14 @@ import {
     tailwindcss,
     threads,
     python,
-    springboot, java, golang, typescript, angular, school, games,
+    springboot,
+    java,
+    golang,
+    typescript,
+    angular,
+    school,
+    games,
+    nail
 } from "../assets/icons";
 
 export const skills = [{
@@ -188,6 +195,13 @@ export const projects = [{
         name: 'Kingdom',
         description: 'Learning English has never been so easy and attractive. Join our fully interactive classes and experience a teaching method focused on conversation and practice. We are here to guide you through every step of the way, ensuring you acquire English proficiency in an effective and fun way.',
         link: 'https://kingdome-cb.vercel.app/',
+    },
+    {
+        iconUrl: nail,
+        theme: 'btn-back-pink',
+        name: 'estudio-unghie-jazz',
+        description: 'Web application for booking nail appointments',
+        link: 'https://estudio-unghie-jazz.dev/',
     },
 
 ];

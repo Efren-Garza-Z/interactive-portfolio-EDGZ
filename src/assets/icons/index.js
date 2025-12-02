@@ -34,8 +34,10 @@ import postgresql from './postgresql.svg'
 import angular from './angular.svg'
 import school from './school.svg'
 import games from './games.svg'
+import nail from './nail.svg'
 
 export {
+    nail,
     games,
     school,
     angular,
