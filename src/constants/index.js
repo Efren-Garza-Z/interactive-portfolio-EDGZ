@@ -192,9 +192,9 @@ export const projects = [{
     {
         iconUrl: school,
         theme: 'btn-back-blue',
-        name: 'Kingdom',
+        name: 'ICB',
         description: 'Learning English has never been so easy and attractive. Join our fully interactive classes and experience a teaching method focused on conversation and practice. We are here to guide you through every step of the way, ensuring you acquire English proficiency in an effective and fun way.',
-        link: 'https://kingdome-cb.vercel.app/',
+        link: 'https://gemini-3-threejs.vercel.app/',
     },
     {
         iconUrl: nail,
